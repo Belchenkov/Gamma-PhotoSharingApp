@@ -44,3 +44,20 @@ img.demo {
 		padding: 3px;
 		border: 1px solid #ccc;
 }
+
+section#feature {
+		background: #1caa98;
+		color: #fff;
+		padding: 40px 0;
+		overflow: auto;
+}
+
+section#feature ul li {
+		font-size: 22px;
+		list-style: none;
+		line-height: 2em;
+}
+
+section#feature ul li i {
+		margin-right: 10px;
+}
